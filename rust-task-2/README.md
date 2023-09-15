@@ -10,18 +10,18 @@
 
 ### Prepare for your assigment
 
-Your first assignment is turned in by uploading it to a repository named `<KTH_ID>-task-2` under the `INDAPlus22` organisation. Be careful to get the spelling right.
+Your first assignment is turned in by uploading it to a repository named `<KTH_ID>-rust-task-2` under the `IndaPlus23` organisation. Be careful to get the spelling right.
 
 The grade to an assigment is left in the form of an issue with "Pass", "Komplettering", or "Fail" in the title. In case of "Komplettering", read the instructions on what to adjust down in the issue description. Leave a comment on the issue upon reupload of the assignment. "Pass" and "Fail" are self explanatory. 
 
-1) Create a repository named `<KTH_ID>-task-2`.
+1) Create a repository named `<KTH_ID>-rust-task-2`.
 2) Clone your newly created repository.
-`git clone git@github.com:INDAPlus22/<KTH_ID>-task-2.git`
+`git clone git@github.com:INDAPlus22/<KTH_ID>-rust-task-2.git`
 3) Create one Rust crate (term for application or library) per subassignment. 
 
 #### How to create a Rust application (_binary_) crate
 
-1) Navigate in your terminal or command prompt to `<KTH_ID>-task-2`.
+1) Navigate in your terminal or command prompt to `<KTH_ID>-rust-task-2`.
 2) Initialise your Rust crate.
 `cargo init <crate_name>`
 3) Navigate into your newly created root directory.
@@ -44,13 +44,12 @@ Write your source code in `src`, where the `main` function is located in `src/ma
 
 ### Kattis problems
 
-This week, you're going to learn the basics of Rust by solving easier [Kattis](https://kth.kattis.com) problems. For each problem, create one Rust crate in `<KTH_ID>-task-2`. Include a screenshot of your Kattis submission to prove solution. See `./minimal_scalar_product` for a Kattis solution example.
+This week, you're going to learn the basics of Rust by solving easier [Kattis](https://kth.kattis.com) problems. For each problem, create one Rust crate in `<KTH_ID>-rust-task-2`. Include a screenshot of your Kattis submission to prove solution. See `./minimal_scalar_product` for a Kattis solution example.
 
-Solve at least two of the following problems:
-- [Summera tal](https://kth.kattis.com/problems/kth.javap.sumsort)
-- [Avstånd till kanten](https://kth.kattis.com/problems/kth.javap.kant)
-- [Cyber-Clara och anmälningslistorna](https://kth.kattis.com/problems/kth.grupdat.anmalningslistorna)
-- [A Different Problem](https://kth.kattis.com/problems/different)
+
+- [Summera tal](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/nx4ezb/problems/kth.javap.sumsort)
+- [Avstånd till kanten](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/nx4ezb/problems/kth.javap.kant)
+- [Cyber-Clara och anmälningslistorna](https://kth.kattis.com/courses/DD2016/plusplus23/assignments/nx4ezb/problems/kth.grupdat.anmalningslistorna)
 
 _(optional fun)_:
 - [Game Rank](https://open.kattis.com/problems/gamerank)
