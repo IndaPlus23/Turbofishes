@@ -27,7 +27,7 @@ Learn what it means to be a compiler by translating C to MIPS assembly instructi
 
 ### [Inbyggda System-mastern](https://www.kth.se/student/kurser/program/TEBSM/20212/arskurs1), här kommer jag!
 
-Show that no one can write single-chip logic as royally as you do! Write an application, which takes one integer `1 < n <= 1000` as input and prints all prime numbers up to that integer. The prime number search algoritm must be an implementation of [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes). 
+Show that no one can write single-chip logic as royally as you do! Write an application, which takes one integer `1 < n <= 1000` as input and prints all prime numbers up to that integer. The prime number search algoritm can be an implementation of [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) or any other algorithm. 
 
 Place your solution file(s) inside the `./sieve` directory.
 
