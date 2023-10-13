@@ -12,7 +12,7 @@ _Disclaimer_: Nyare system använder inte denna gamla version av MIPS, men DTEK-
 
 ### Prepare for your assigment
 
-1) Create a repository named `<KTH_ID>-task-8`.
+1) Create a repository named `<KTH_ID>-task-6`.
 2) Clone your newly created repository.
 
 ## Assignments
