@@ -64,4 +64,4 @@ To prove your language's capabilities, write this program and include the file i
 
 ### _NOTE_
 
-Your language are not allowed to fit multiplication of factorial logic in single instructions. Multiplication by gate logic (add, or, not, xor ...) and addition is allowed.
+Your language is not allowed to fit multiplication of factorial logic in single instructions. Multiplication by gate logic (add, or, not, xor ...) and addition is allowed.
