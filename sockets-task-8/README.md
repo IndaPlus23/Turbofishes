@@ -1,6 +1,6 @@
-# DD1338 Week 14
+# DD1337 Week 9
 
-I hope you have had a great time with your holidays, and had at least a little bit of time to relax! Now its time to get on coding again. Yay! 
+Hope it was fun designing your own ISA's, assemblers and interpreters! Now our IndaPlus course continues on!
 
 ## The Internet is for... Fun!
 
@@ -15,7 +15,7 @@ To get started, see the Rust book's [multithreaded server example project](https
 
 Tobias Hansson has graciously provided some of my old Java code under `./java-examples` a server and client program. The client sends two numbers to the server that adds them together and send the result back to the client. Your job will be to make something more advanced but the example code should set you off if you want to use Java.
 
-Viola Söderlund has touched up a very simple Rust server and a client binary under `./rust-example`. Check it out!
+Viola Söderlund has touched up a very simple Rust server and a client under `./rust-example`. Check it out!
 
 ## Assignments
 
