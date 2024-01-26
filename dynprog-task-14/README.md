@@ -1,5 +1,7 @@
 # DD1338 Week 14
-Author: Viola Söderlund
+Origninal Author: Viola Söderlund. 
+2024: Edits by Daniel S and Benjamin W.
+
 ## Dynamic Programming (mostly)! 
 If you havn't tried dynamic programming before, you are in for a treat! This week you are going to experience the pain(pleasure) of optimising a problem to make it go from having a runtime of a few hours, down to under a second.
 
@@ -7,7 +9,7 @@ If you havn't tried dynamic programming before, you are in for a treat! This wee
 
 ### Prepare for your assigment
 
-1) Create a repository named `<KTH_ID>-task-14`
+1) Create a repository named `<KTH_ID>-task-14`https://github.com/IndaPlus23/Turbofishes/blob/master/dynprog-task-14/README.md
 2) Clone your newly created repository and start coding. 
 
 To make your Kattis-experience easier, see `./kattis_template/src/main.rs`. If you're mot all förmodan using Java, make use of [this utility class](https://open.Kattis.com/download/Kattio.java?1a0093=) to simplify input-output fast enough to satisfy the judge.
